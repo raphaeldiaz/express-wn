@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/raphaeldiaz/express-wn/issues"
   },
-  "homepage": "https://github.com/raphaeldiaz/express-wn#readme"
+  "homepage": "https://github.com/raphaeldiaz/express-wn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
